@@ -30,6 +30,10 @@
     "AdSupport",
     "SystemConfiguration"
   ],
+  "source_files": [
+    "dynamic/YandexMobileMetrica.xcframework/**/YandexMobileMetrica.framework/Headers/*.h",
+    "dynamic/YandexMobileMetricaCrashes.xcframework/**/YandexMobileMetricaCrashes.framework/Headers/*.h"
+  ],
   "vendored_frameworks": [
     "dynamic/YandexMobileMetrica.xcframework",
     "dynamic/YandexMobileMetricaCrashes.xcframework"
