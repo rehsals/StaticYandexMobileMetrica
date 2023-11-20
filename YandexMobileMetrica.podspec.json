@@ -15,8 +15,7 @@
     "sha1": "2b015941841fca10652cc1dc38a4cda3687c6bce"
   },
   "platforms": {
-    "ios": "9.0",
-    "tvos": "9.0"
+    "ios": "12.0"
   },
   "libraries": [
     "c++",
