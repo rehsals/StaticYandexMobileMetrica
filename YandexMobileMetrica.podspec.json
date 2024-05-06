@@ -1,6 +1,6 @@
 {
   "name": "YandexMobileMetrica",
-  "version": "4.5.2",
+  "version": "4.5.2-static",
   "summary": "This library is designed to be a part of mobile apps and provide app usage stats to Yandex AppMetrica",
   "homepage": "https://appmetrica.yandex.com/",
   "license": {
