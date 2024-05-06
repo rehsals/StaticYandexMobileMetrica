@@ -31,16 +31,16 @@
     "SystemConfiguration"
   ],
   "source_files": [
-    "dynamic/YandexMobileMetrica.xcframework/**/YandexMobileMetrica.framework/Headers/*.h",
-    "dynamic/YandexMobileMetricaCrashes.xcframework/**/YandexMobileMetricaCrashes.framework/Headers/*.h"
+    "static/YandexMobileMetrica.xcframework/**/YandexMobileMetrica.framework/Headers/*.h",
+    "static/YandexMobileMetricaCrashes.xcframework/**/YandexMobileMetricaCrashes.framework/Headers/*.h"
   ],
   "vendored_frameworks": [
-    "dynamic/YandexMobileMetrica.xcframework",
-    "dynamic/YandexMobileMetricaCrashes.xcframework"
+    "static/YandexMobileMetrica.xcframework",
+    "static/YandexMobileMetricaCrashes.xcframework"
   ],
   "public_header_files": [
-    "dynamic/YandexMobileMetrica.xcframework/**/YandexMobileMetrica.framework/Headers/*.h",
-    "dynamic/YandexMobileMetricaCrashes.xcframework/**/YandexMobileMetricaCrashes.framework/Headers/*.h"
+    "static/YandexMobileMetrica.xcframework/**/YandexMobileMetrica.framework/Headers/*.h",
+    "static/YandexMobileMetricaCrashes.xcframework/**/YandexMobileMetricaCrashes.framework/Headers/*.h"
   ],
   "ios": {
     "frameworks": [
